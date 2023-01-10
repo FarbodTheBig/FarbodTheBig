@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Farbod</h1>
 <h3 align="center">I'm a verified python developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/004/865/921/original/programmer-people-concept-use-laptop-and-programming-code-program-icon-spreading-with-modern-flat-style-free-vector.jpg">
+
 
 
 
